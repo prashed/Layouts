@@ -1,0 +1,54 @@
+img {
+    float: right;
+    margin-left: 20px;
+    margin-right: 200px;
+}
+
+p {
+    margin-left: 50px;
+}
+
+.box {
+    background: red;
+    float: right;
+}
+
+.box1 {
+    background: orange;
+    float: right;
+}
+
+
+.box2 {
+    background: yellow;
+    float: right;
+}
+
+
+.box3 {
+    background: purple;
+    float: right;
+}
+
+
+.box4 {
+    background: saddlebrown;
+    margin-left: 500px;
+    float: left;
+    clear: both;
+
+}
+
+
+.box5 {
+    background: gray;
+    float: left;
+}
+
+
+.box6 {
+    background: pink;
+    float: left;
+}
+
+
